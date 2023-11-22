@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/68/41/76/6841767ff326de7cc51e7e3fc3244323.gif"  />
-</div>
-
 ###
 
 <div align="center">
@@ -63,6 +59,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/theldemendes/theldemendes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/68/41/76/6841767ff326de7cc51e7e3fc3244323.gif"  />
+</div>
 
 ###
