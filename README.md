@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Thelde from Minas Gerais, Brazil<br><br>- 🔭 I’m working as Freelancer Fullstack Developer.<br>- 📚 I'm currently learning [Hugo](https://gohugo.io/)<br>- ⚡ In my free time I like to make games and some digital 3d art.</p>
+<p align="left">I'm Thelde from Minas Gerais, Brazil<br><br>- 🔭 I’m working as Freelancer Fullstack Developer.<br>- 📚 I'm currently learning <a href="https://gohugo.io/" target="_blank">Hugo<a/><br>- ⚡ In my free time I like to make games and some digital 3d art.</p>
 
 ###
 
