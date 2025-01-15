@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Thelde from Minas Gerais, Brazil<br><br>- 🔭 I’m working as Freelancer Fullstack Developer.<br>- 📚 I'm currently learning NextJs.<br>- ⚡ In my free time I like to make games and some digital 3d art.</p>
+<p align="left">I'm Thelde from Minas Gerais, Brazil<br><br>- 🔭 I’m working as Freelancer Fullstack Developer.<br>- 📚 I'm currently learning [Hugo](https://gohugo.io/)<br>- ⚡ In my free time I like to make games and some digital 3d art.</p>
 
 ###
 
@@ -54,16 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=theldemendes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
